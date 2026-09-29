@@ -1,1 +1,2 @@
-This is a consloe based card game made by c# in visual studio. It is a swap and stay game. You can paly this game with computer and all gameplay will store in log file. You can simply download repo and open solution file (.sln) using visual studio for run the project.
+## Console base card game
+This is a consloe based card game made using c# in visual studio. It is a swap and stay game. You can paly this game with computer and all gameplay will store in log file. You can simply download repo and open solution file (.sln) using visual studio for run the project.
